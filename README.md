@@ -1,4 +1,4 @@
-# 📊 Data Analysis Portfolio Project
+# 📊 Customer Behavior Analysis
 
 ## 📌 Overview
 This project demonstrates an **end-to-end data analysis workflow** commonly followed in real-world business environments. It covers the complete analytics lifecycle—from loading raw data and performing analysis to generating insights, building dashboards, and presenting results to stakeholders.
